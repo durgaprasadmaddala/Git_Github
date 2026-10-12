@@ -64,3 +64,32 @@ git push — upload commits
 
 
 6. How to upload a project to GitHub
+First, install Git from the official Git website and create a repository at GitHub.
+Open your project folder in the terminal and run:
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git push -u origin main
+
+
+Replace YOUR_USERNAME and YOUR_REPOSITORY with your actual GitHub username and repository name. Create an empty remote repository first.
+7. Important interview questions
+Q1. What is Git?
+Git is a distributed version control system used to track changes in files and source code.
+Q2. What is GitHub?
+GitHub is an online platform used to host Git repositories and collaborate on projects.
+Q3. What is a repository?
+A repository is a location where project files and their version history are managed.
+Q4. What is staging?
+Staging means selecting changes to include in the next commit.
+Q5. What is a commit?
+A commit records a snapshot of staged changes in the local repository.
+Q6. What is a remote repository?
+A remote repository is a repository hosted on another system, such as GitHub.
+Q7. What is branching?
+Branching allows developers to work on different features independently without directly changing the main branch.
+Q8. What is the difference between git push and git pull?
+- git push uploads local commits to a remote repository.
+- git pull fetches and integrates remote changes into the current branch.
