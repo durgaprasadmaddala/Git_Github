@@ -1,4 +1,5 @@
 # Git_Github
+ is a free, open-source, distributed version control system (DVCS) created by Linus Torvalds in 2005 to manage the development of the Linux kernel. It is designed to handle everything from small to very large projects with speed, data integrity, and support for distributed, non-linear workflows. Today, it is the industry standard, used by over 90% of developers worldwide.
 
 Learning Git – Version Control System
 
