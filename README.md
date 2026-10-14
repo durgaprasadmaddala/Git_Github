@@ -105,6 +105,8 @@ Use this method if you just want to track a folder on your computer.
 2. Navigate to your project folder, or create a new one and step inside:bash
 mkdir my-new-project
 cd my-new-project
+Initialize the repository by running:bash
+git init
 
 
 To create a Git repository, you can either start a brand new project locally on your machine or connect an existing local folder to a remote hosting platform like GitHub, GitLab, or Bitbucket.
