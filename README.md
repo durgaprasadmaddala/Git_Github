@@ -108,5 +108,8 @@ cd my-new-project
 Initialize the repository by running:bash
 git init
 
-
+Save your first change by creating a file, staging it, and committing it:bash
+echo "# My Project" >> README.md
+git add README.md
+git commit -m "Initial commit"
 To create a Git repository, you can either start a brand new project locally on your machine or connect an existing local folder to a remote hosting platform like GitHub, GitLab, or Bitbucket.
