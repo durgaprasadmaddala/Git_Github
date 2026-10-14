@@ -98,6 +98,13 @@ Q8. What is the difference between git push and git pull?
 To create a Git repository, you can either start a brand new project locally on your machine or connect an existing local folder to a remote hosting platform like GitHub, GitLab, or Bitbucket.
 
 
+Method 1: Create a Local Repository From Scratch
+
+Use this method if you just want to track a folder on your computer.
+1. Open your terminal (Mac/Linux) or Git Bash (Windows).
+2. Navigate to your project folder, or create a new one and step inside:bash
+mkdir my-new-project
+cd my-new-project
 
 
 To create a Git repository, you can either start a brand new project locally on your machine or connect an existing local folder to a remote hosting platform like GitHub, GitLab, or Bitbucket.
