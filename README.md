@@ -94,3 +94,10 @@ Branching allows developers to work on different features independently without 
 Q8. What is the difference between git push and git pull?
 - git push uploads local commits to a remote repository.
 - git pull fetches and integrates remote changes into the current branch.
+
+To create a Git repository, you can either start a brand new project locally on your machine or connect an existing local folder to a remote hosting platform like GitHub, GitLab, or Bitbucket.
+
+
+
+
+To create a Git repository, you can either start a brand new project locally on your machine or connect an existing local folder to a remote hosting platform like GitHub, GitLab, or Bitbucket.
